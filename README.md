@@ -1,0 +1,2 @@
+# Statistika
+Program statistika deskriptif
